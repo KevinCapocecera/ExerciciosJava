@@ -1,5 +1,7 @@
 package Pratica_02.Heranca_Composicao;
 
+import java.util.Scanner;
+
 public class Veiculo {
     public String marca;
     public String tipo;
