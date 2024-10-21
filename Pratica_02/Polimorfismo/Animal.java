@@ -2,7 +2,7 @@ package Pratica_02.Polimorfismo;
 
 public class Animal {
 
-    public void fazerSom(){
-            System.out.println("Som de Animal");
+    public String fazerSom(){
+            return "Som de animal";
     }
 }
